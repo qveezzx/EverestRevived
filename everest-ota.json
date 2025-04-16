@@ -1,0 +1,16 @@
+{
+  "version": "v1.3.0 LineageOS rebase!",
+  "date": "1725886097",
+  "variants": [
+    {
+      "name": "everest_revived_1.7",
+      "size": "1765442204",
+      "url": "https://github.com/kaii-lb/treble_manifest/releases/download/v1.3/EverestOS_1_7_arm64_bgN.img.xz"
+    },
+    {
+      "name": "everest_arm64_bvN",
+      "size": "1075327084",
+      "url": "https://github.com/kaii-lb/treble_manifest/releases/download/v1.2/EverestOS_1_3_arm64_bvN-NO_GAPPS.img.xz"
+    }
+  ]
+}
